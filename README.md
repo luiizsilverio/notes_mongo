@@ -14,7 +14,7 @@
 * [Contato](#email-contato)
 
 ## Sobre a aplicação
-API desenvolvida em __Node.js__, que implementa um CRUD com banco de dados __MongoDB__ e template engine __Handlebars__.<br />
+API desenvolvida em __Node.js__ que implementa um CRUD com banco de dados __MongoDB__ e template engine __Handlebars__.<br />
 Permite a inclusão de tarefas, alteração, consulta e exclusão.<br />
 Desenvolvido durante o curso [MongoDB do básico ao avançado](https://www.udemy.com/course/mongodb-do-basico-ao-avancado-c-mongoose-e-projetos/), do prof. Matheus Battisti.<br />
 
@@ -36,7 +36,7 @@ Desenvolvido durante o curso [MongoDB do básico ao avançado](https://www.udemy
 * __Bootstrap__ para fazer algumas estilizações
 
 ## :camera_flash: Screenshots
-![](https://github.com/luiizsilverio/happy/blob/main/assets/screenshot.gif)
+![](https://github.com/luiizsilverio/notes_mongo/blob/main/assets/screenshot.gif)
 
 ## :car: Iniciando a aplicação
 Primeiramente, o banco de dados MongoDB precisa estar instalado.<br />
