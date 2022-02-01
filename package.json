@@ -8,8 +8,8 @@
     "start": "nodemon ./index.js 0.0.0.0 8000"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Luiz Oliveira",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.2",
     "express-handlebars": "^6.0.2",
