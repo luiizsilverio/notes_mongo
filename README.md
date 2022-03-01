@@ -16,7 +16,9 @@
 ## Sobre a aplicação
 API desenvolvida em __Node.js__ que implementa um CRUD com banco de dados __MongoDB__ e template engine __Handlebars__.<br />
 Permite a inclusão de tarefas, alteração, consulta e exclusão.<br />
-Desenvolvido durante o curso [MongoDB do básico ao avançado](https://www.udemy.com/course/mongodb-do-basico-ao-avancado-c-mongoose-e-projetos/), do prof. Matheus Battisti.<br />
+O banco de dados pode ser local ou localizado no MongoDB Atlas. Para definir o banco na nuvem, informe no arquivo __.env__ ```DB_ATLAS=Yes```, o usuário e a senha do banco.<br />
+Desenvolvido durante o curso [MongoDB do básico ao avançado](https://www.udemy.com/course/mongodb-do-basico-ao-avancado-c-mongoose-e-projetos/), do prof. Matheus Battisti.
+<br />
 
 ### Rotas da aplicação
 
